@@ -1,0 +1,3 @@
+/Users/RomanK/Documents/Рома К/1 Studying/7 Теория графов/HW/task3558/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/RomanK/Documents/Рома К/1 Studying/7 Теория графов/HW/task3558/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/RomanK/Documents/Рома К/1 Studying/7 Теория графов/HW/task3558/cmake-build-debug/CMakeFiles/task3558.dir
